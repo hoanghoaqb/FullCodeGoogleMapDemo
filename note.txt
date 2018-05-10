@@ -1,0 +1,8 @@
+Link: Json tra ve cac dia diem nam trong pham vi ban kinh' x(500)
+https://maps.googleapis.com/maps/api/place/autocomplete/json?input=cafe&types=establishment&location=10.738244,106.677919&radius=500&strictbounds&key=AIzaSyDp9Z67tHa71022yPH2nUXv5b7bT9llzA8
+
+Link: Json tra ve duong di tu Pho Di Bo Nguyen Hue den truong Dai Hoc Cong Nghe Sai Gon
+https://maps.googleapis.com/maps/api/directions/json?origin=Pho%20Di%20Bo%20Nguyen%20Hue&destination=Cong%20Nghe%20Sai%20Gon&key=AIzaSyDp9Z67tHa71022yPH2nUXv5b7bT9llzA8
+
+Link: Json xem thong tin cua mot Place thong qua place_id
+https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJ904xBq0vdTERg_sulSiLt6Q&key=AIzaSyDp9Z67tHa71022yPH2nUXv5b7bT9llzA8
